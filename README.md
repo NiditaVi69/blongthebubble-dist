@@ -1,2 +1,3 @@
-# blongthebubble-dist
-blongthebubble coding-agent harness — prebuilt Windows binaries
+# blongthebubble distributions
+
+Prebuilt Windows binaries of the blongthebubble coding-agent harness.
